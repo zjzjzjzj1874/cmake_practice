@@ -15,6 +15,14 @@ make
 ./Demo 2 10 # 根据生成的可执行文件运行
 ```
 
+## 项目结构
+### [demo1](./demo1)
+单个源文件构建
+### [demo2](./demo2)
+同一目录多个源文件构建
+### [demo3](./demo3)
+多个目录多个源文件构建
+
 ## CMake
 - [官方文档](https://cmake.org/documentation/)
 - [帮助文档](https://cmake.org/cmake/help/latest/)
