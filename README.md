@@ -22,6 +22,17 @@ make
 同一目录多个源文件构建
 ### [demo3](./demo3)
 多个目录多个源文件构建
+### [demo4](./demo4)
+自定义编译
+CMake 允许为项目增加编译选项，从而可以根据用户的环境和需求选择最合适的编译方案。
+例如，可以将 MathFunctions 库设为一个可选的库，如果该选项为 ON ，就使用该库定义的数学函数来进行运算。否则就调用标准库中的数学函数库。
+```shell
+# 注意，编译时使用ccmake    交互式命令，可选择对应的选项
+mkcd build
+ccmake ..
+
+make
+```
 
 ## CMake
 - [官方文档](https://cmake.org/documentation/)
