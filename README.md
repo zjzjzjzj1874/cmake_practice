@@ -37,7 +37,7 @@ make
 ## CMake
 - [官方文档](https://cmake.org/documentation/)
 - [帮助文档](https://cmake.org/cmake/help/latest/)
-- [Modern CMake简体中文教程](https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/)
+- [Modern CMake 简体中文版](https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/)
 - [CMake中文网](http://www.cmake.org.cn/)
 - [Github：cmake-project](https://github.com/myhhub/cmake-project?tab=readme-ov-file)
 - [CMake环境变量](https://www.cnblogs.com/xianghang123/p/3556425.html)
